@@ -1,5 +1,3 @@
-# imposto-de-renda-excel
-Ferramenta simples e funcional para organizar dados da declaração de IR no Excel
 # 📊 Projeto Imposto de Renda - Excel
 
 Ferramenta simples e funcional desenvolvida em Excel para ajudar pessoas a organizarem suas informações para a declaração do Imposto de Renda de forma prática.
